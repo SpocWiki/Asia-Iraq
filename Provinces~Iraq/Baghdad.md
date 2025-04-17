@@ -40,36 +40,36 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Pyongyang,18808]]'
 - '[[/_Standards/WikiData/WD~Cairo,85]]'
 located_in_the_administrative_territorial_entity:
-- "[[/_Standards/WikiData/WD~Mandatory Iraq,146720]]"
-- "[[/_Standards/WikiData/WD~Kingdom of Iraq,149805]]"
-- "[[/_Standards/WikiData/WD~Baghdad Governorate,191075]]"
-- "[[/_Standards/WikiData/WD~Baghdad Vilayet,1585311]]"
-- "[[/_Standards/WikiData/WD~Baghdad Eyalet,3828224]]"
+- "[[/_Standards/WikiData/WD~Mandatory_Iraq,146720]]"
+- "[[/_Standards/WikiData/WD~Kingdom_of_Iraq,149805]]"
+- "[[/_Standards/WikiData/WD~Baghdad_Governorate,191075]]"
+- "[[/_Standards/WikiData/WD~Baghdad_Vilayet,1585311]]"
+- "[[/_Standards/WikiData/WD~Baghdad_Eyalet,3828224]]"
 replaces: '[[/_Standards/WikiData/WD~Ctesiphon,192541]]'
 instance_of:
-- "[[/_Standards/WikiData/WD~federal capital,257391]]"
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~largest city,51929311]]"
+- "[[/_Standards/WikiData/WD~federal_capital,257391]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~New History of Yuan,1053256]]"
-- "[[/_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[/_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[/_Standards/WikiData/WD~History of Ming,28763]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
+- "[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- "[[/_Standards/WikiData/WD~History_of_Ming,28763]]"
 member_of:
-- "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
-- "[[/_Standards/WikiData/WD~League of Historical Cities,9383972]]"
-history_of_topic: "[[/_Standards/WikiData/WD~history of Baghdad,3394486]]"
+- "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+- "[[/_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
+history_of_topic: "[[/_Standards/WikiData/WD~history_of_Baghdad,3394486]]"
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Q42351301,42351301]]'
 category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q64577468,64577468]]'
-head_of_government: "[[/_Standards/WikiData/WD~Manhal Al habbobi,99522079]]"
+head_of_government: "[[/_Standards/WikiData/WD~Manhal_Al_habbobi,99522079]]"
 BHCL_UUID:
 - 2bb777ae-3b1f-4068-bceb-ec95cbb2a169
 - 92e4f6fd-ed58-41f3-9dd2-5783369f95c6
