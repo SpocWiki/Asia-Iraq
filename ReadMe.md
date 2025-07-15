@@ -128,10 +128,4 @@ Capital :: [[Iraq/Counties/Baghdad/City/Baghdad]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Iraq|Iraq]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Iraq.internal|Iraq.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Iraq.protect|Iraq.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Iraq.private|Iraq.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Iraq.personal|Iraq.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Iraq.secret|Iraq.secret]] 
+

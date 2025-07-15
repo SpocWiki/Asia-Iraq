@@ -40,11 +40,18 @@ markerFolder: ./Arbil/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Arbil|Arbil]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Arbil.public|Arbil.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Arbil.internal|Arbil.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Arbil.protect|Arbil.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Arbil.private|Arbil.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Arbil.personal|Arbil.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Arbil.secret|Arbil.secret]] 
+
+### #is_/same_as :: [Arbil](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Arbil.md) 
+
+### #is_/same_as :: [Arbil.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Arbil.public.md) 
+
+### #is_/same_as :: [Arbil.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Arbil.internal.md) 
+
+### #is_/same_as :: [Arbil.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Arbil.protect.md) 
+
+### #is_/same_as :: [Arbil.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Arbil.private.md) 
+
+### #is_/same_as :: [Arbil.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Arbil.personal.md) 
+
+### #is_/same_as :: [Arbil.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Arbil.secret.md)
 

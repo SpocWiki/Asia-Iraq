@@ -40,11 +40,18 @@ markerFolder: ./An-Najaf/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf|An-Najaf]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.public|An-Najaf.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.internal|An-Najaf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.protect|An-Najaf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.private|An-Najaf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.personal|An-Najaf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/An-Najaf.secret|An-Najaf.secret]] 
+
+### #is_/same_as :: [An-Najaf](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/An-Najaf.md) 
+
+### #is_/same_as :: [An-Najaf.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/An-Najaf.public.md) 
+
+### #is_/same_as :: [An-Najaf.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/An-Najaf.internal.md) 
+
+### #is_/same_as :: [An-Najaf.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/An-Najaf.protect.md) 
+
+### #is_/same_as :: [An-Najaf.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/An-Najaf.private.md) 
+
+### #is_/same_as :: [An-Najaf.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/An-Najaf.personal.md) 
+
+### #is_/same_as :: [An-Najaf.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/An-Najaf.secret.md)
 

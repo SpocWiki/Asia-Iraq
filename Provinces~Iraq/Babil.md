@@ -40,11 +40,18 @@ markerFolder: ./Babil/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil|Babil]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.public|Babil.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.internal|Babil.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.protect|Babil.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.private|Babil.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.personal|Babil.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Babil.secret|Babil.secret]] 
+
+### #is_/same_as :: [Babil](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.md) 
+
+### #is_/same_as :: [Babil.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.public.md) 
+
+### #is_/same_as :: [Babil.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.internal.md) 
+
+### #is_/same_as :: [Babil.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.protect.md) 
+
+### #is_/same_as :: [Babil.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.private.md) 
+
+### #is_/same_as :: [Babil.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.personal.md) 
+
+### #is_/same_as :: [Babil.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.secret.md)
 

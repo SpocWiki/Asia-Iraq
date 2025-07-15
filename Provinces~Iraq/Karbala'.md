@@ -40,11 +40,18 @@ markerFolder: ./Karbala'/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Karbala'|Karbala']] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Karbala'.public|Karbala'.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Karbala'.internal|Karbala'.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Karbala'.protect|Karbala'.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Karbala'.private|Karbala'.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Karbala'.personal|Karbala'.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Karbala'.secret|Karbala'.secret]] 
+
+### #is_/same_as :: [Karbala'](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Karbala'.md) 
+
+### #is_/same_as :: [Karbala'.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Karbala'.public.md) 
+
+### #is_/same_as :: [Karbala'.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Karbala'.internal.md) 
+
+### #is_/same_as :: [Karbala'.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Karbala'.protect.md) 
+
+### #is_/same_as :: [Karbala'.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Karbala'.private.md) 
+
+### #is_/same_as :: [Karbala'.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Karbala'.personal.md) 
+
+### #is_/same_as :: [Karbala'.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Karbala'.secret.md)
 

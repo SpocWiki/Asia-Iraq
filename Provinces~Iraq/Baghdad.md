@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 33.3
 - 44.4
@@ -127,11 +127,18 @@ markerFolder: ./Baghdad/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Baghdad|Baghdad]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Baghdad.public|Baghdad.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Baghdad.internal|Baghdad.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Baghdad.protect|Baghdad.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Baghdad.private|Baghdad.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Baghdad.personal|Baghdad.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Baghdad.secret|Baghdad.secret]] 
+
+### #is_/same_as :: [Baghdad](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.md) 
+
+### #is_/same_as :: [Baghdad.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.public.md) 
+
+### #is_/same_as :: [Baghdad.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.internal.md) 
+
+### #is_/same_as :: [Baghdad.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.protect.md) 
+
+### #is_/same_as :: [Baghdad.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.private.md) 
+
+### #is_/same_as :: [Baghdad.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.personal.md) 
+
+### #is_/same_as :: [Baghdad.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.secret.md)
 

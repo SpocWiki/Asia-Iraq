@@ -40,11 +40,18 @@ markerFolder: ./Dhi-Qar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar|Dhi-Qar]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.public|Dhi-Qar.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.internal|Dhi-Qar.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.protect|Dhi-Qar.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.private|Dhi-Qar.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.personal|Dhi-Qar.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Dhi-Qar.secret|Dhi-Qar.secret]] 
+
+### #is_/same_as :: [Dhi-Qar](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar.md) 
+
+### #is_/same_as :: [Dhi-Qar.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar.public.md) 
+
+### #is_/same_as :: [Dhi-Qar.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar.internal.md) 
+
+### #is_/same_as :: [Dhi-Qar.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar.protect.md) 
+
+### #is_/same_as :: [Dhi-Qar.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar.private.md) 
+
+### #is_/same_as :: [Dhi-Qar.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar.personal.md) 
+
+### #is_/same_as :: [Dhi-Qar.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar.secret.md)
 

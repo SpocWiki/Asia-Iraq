@@ -40,11 +40,18 @@ markerFolder: ./Al-Anbar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Anbar|Al-Anbar]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Anbar.public|Al-Anbar.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Anbar.internal|Al-Anbar.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Anbar.protect|Al-Anbar.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Anbar.private|Al-Anbar.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Anbar.personal|Al-Anbar.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Al-Anbar.secret|Al-Anbar.secret]] 
+
+### #is_/same_as :: [Al-Anbar](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Anbar.md) 
+
+### #is_/same_as :: [Al-Anbar.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Anbar.public.md) 
+
+### #is_/same_as :: [Al-Anbar.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Anbar.internal.md) 
+
+### #is_/same_as :: [Al-Anbar.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Anbar.protect.md) 
+
+### #is_/same_as :: [Al-Anbar.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Anbar.private.md) 
+
+### #is_/same_as :: [Al-Anbar.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Anbar.personal.md) 
+
+### #is_/same_as :: [Al-Anbar.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Anbar.secret.md)
 

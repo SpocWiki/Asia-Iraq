@@ -40,11 +40,18 @@ markerFolder: ./Ninawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Ninawa|Ninawa]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Ninawa.public|Ninawa.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Ninawa.internal|Ninawa.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Ninawa.protect|Ninawa.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Ninawa.private|Ninawa.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Ninawa.personal|Ninawa.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Ninawa.secret|Ninawa.secret]] 
+
+### #is_/same_as :: [Ninawa](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.md) 
+
+### #is_/same_as :: [Ninawa.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.public.md) 
+
+### #is_/same_as :: [Ninawa.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.internal.md) 
+
+### #is_/same_as :: [Ninawa.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.protect.md) 
+
+### #is_/same_as :: [Ninawa.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.private.md) 
+
+### #is_/same_as :: [Ninawa.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.personal.md) 
+
+### #is_/same_as :: [Ninawa.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.secret.md)
 

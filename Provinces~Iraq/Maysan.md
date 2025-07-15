@@ -40,11 +40,18 @@ markerFolder: ./Maysan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan|Maysan]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.public|Maysan.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.internal|Maysan.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.protect|Maysan.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.private|Maysan.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.personal|Maysan.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~West/Iran/Iraq/Counties/Maysan.secret|Maysan.secret]] 
+
+### #is_/same_as :: [Maysan](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Maysan.md) 
+
+### #is_/same_as :: [Maysan.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Maysan.public.md) 
+
+### #is_/same_as :: [Maysan.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Maysan.internal.md) 
+
+### #is_/same_as :: [Maysan.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Maysan.protect.md) 
+
+### #is_/same_as :: [Maysan.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Maysan.private.md) 
+
+### #is_/same_as :: [Maysan.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Maysan.personal.md) 
+
+### #is_/same_as :: [Maysan.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Maysan.secret.md)
 
