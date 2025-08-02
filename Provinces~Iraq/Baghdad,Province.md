@@ -24,57 +24,6 @@ keywords:
 layout: 
 publishDate: 
 expiryDate: 
-has_id_wikidata: Q1530
-twinned_administrative_body:
-  - "[[/_Standards/WikiData/WD~Gaziantep,93338]]"
-  - "[[/_Standards/WikiData/WD~Jeddah,374365]]"
-  - "[[/_Standards/WikiData/WD~Pavlodar,486282]]"
-  - "[[/_Standards/WikiData/WD~Concord,523240]]"
-  - "[[/_Standards/WikiData/WD~Dubai,612]]"
-  - "[[/_Standards/WikiData/WD~Sanaa,2471]]"
-  - "[[/_Standards/WikiData/WD~Rabat,3551]]"
-  - "[[/_Standards/WikiData/WD~Tehran,3616]]"
-  - "[[/_Standards/WikiData/WD~Damascus,3766]]"
-  - "[[/_Standards/WikiData/WD~Amman,3805]]"
-  - "[[/_Standards/WikiData/WD~Beirut,3820]]"
-  - "[[/_Standards/WikiData/WD~Pyongyang,18808]]"
-  - "[[/_Standards/WikiData/WD~Cairo,85]]"
-located_in_the_administrative_territorial_entity:
-  - "[[/_Standards/WikiData/WD~Mandatory_Iraq,146720]]"
-  - "[[/_Standards/WikiData/WD~Kingdom_of_Iraq,149805]]"
-  - "[[/_Standards/WikiData/WD~Baghdad_Governorate,191075]]"
-  - "[[/_Standards/WikiData/WD~Baghdad_Vilayet,1585311]]"
-  - "[[/_Standards/WikiData/WD~Baghdad_Eyalet,3828224]]"
-replaces: "[[/_Standards/WikiData/WD~Ctesiphon,192541]]"
-instance_of:
-  - "[[/_Standards/WikiData/WD~federal_capital,257391]]"
-  - "[[/_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[/_Standards/WikiData/WD~largest_city,51929311]]"
-described_by_source:
-  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[/_Standards/WikiData/WD~New_History_of_Yuan,1053256]]"
-  - "[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[/_Standards/WikiData/WD~History_of_Ming,28763]]"
-member_of:
-  - "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-  - "[[/_Standards/WikiData/WD~League_of_Historical_Cities,9383972]]"
-history_of_topic: "[[/_Standards/WikiData/WD~history_of_Baghdad,3394486]]"
-topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Q42351301,42351301]]"
-category_for_people_buried_here: "[[/_Standards/WikiData/WD~Q64577468,64577468]]"
-head_of_government: "[[/_Standards/WikiData/WD~Manhal_Al_habbobi,99522079]]"
-BHCL_UUID:
-  - 2bb777ae-3b1f-4068-bceb-ec95cbb2a169
-  - 92e4f6fd-ed58-41f3-9dd2-5783369f95c6
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Bagdad%20collage.jpg
-flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Baghdad.svg
 demonym:
   - bagadesi
   - بغدادي
@@ -99,17 +48,12 @@ located_in_or_next_to_body_of_water:
   - "[[/_Standards/WikiData/WD~Tigris,35591]]"
 area: 673
 OmegaWiki_Defined_Meaning: 160279
-native_label: بغداد
 official_name:
   - بغداد
-population: 8126755
 WOEID: 1979455
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Iraq-CIA%20WFB%20Map.png
-Commons_category: Baghdad
 hashtag:
   - Baghdad
-video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Gr%C3%BCndung%20Bagdads%20im%208.%20Jahrhundert%20%28CC%20BY-SA%204.0%29.webm
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Baghdad%20Wikivoyage%20banner.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Bagdad.wav
 detail_map:
@@ -123,7 +67,7 @@ Commons_gallery: بغداد
 coordinate_location: Point(44.366111111 33.315277777)
 ---
 
-# Baghdad
+# [[Baghdad,Province]] 
 
 ```leaflet
 id: Baghdad
