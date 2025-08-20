@@ -1,37 +1,38 @@
 ---
 location:
-- 33.34
-- 44.42
+  - 33.34
+  - 44.42
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26927
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Iraq
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Iraq
-- العراق
-- 伊拉克
-- Ирак
-- the Republic of Iraq
-- la República del Iraq
-- Iraq (el)
+  - Iraq
+  - العراق
+  - 伊拉克
+  - Ирак
+  - the Republic of Iraq
+  - la República del Iraq
+  - Iraq (el)
 Languages:
-- ar-IQ
-- ku
-- hy
+  - ar-IQ
+  - ku
+  - hy
 ---
 
 
