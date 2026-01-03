@@ -112,3 +112,21 @@ Krugosvet_article: istoriya/VAVILON.html
 > and nearby towns such as Hillah remain inhabited on the historical site.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Babylon) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah/Babylon|Babylon]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah/Babylon.public|Babylon.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah/Babylon.internal|Babylon.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah/Babylon.protect|Babylon.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah/Babylon.private|Babylon.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah/Babylon.personal|Babylon.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah/Babylon.secret|Babylon.secret]] 
+

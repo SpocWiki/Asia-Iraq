@@ -40,17 +40,17 @@ markerFolder: ./Al-Basrah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al-Basrah](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah|Al-Basrah]] 
 
-### #is_/same_as :: [Al-Basrah.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.public|Al-Basrah.public]] 
 
-### #is_/same_as :: [Al-Basrah.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.internal|Al-Basrah.internal]] 
 
-### #is_/same_as :: [Al-Basrah.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.protect|Al-Basrah.protect]] 
 
-### #is_/same_as :: [Al-Basrah.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.private|Al-Basrah.private]] 
 
-### #is_/same_as :: [Al-Basrah.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.personal|Al-Basrah.personal]] 
 
-### #is_/same_as :: [Al-Basrah.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Basrah.secret|Al-Basrah.secret]] 
 

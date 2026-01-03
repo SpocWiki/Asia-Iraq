@@ -40,17 +40,17 @@ markerFolder: ./Dihok/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dihok](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok|Dihok]] 
 
-### #is_/same_as :: [Dihok.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.public|Dihok.public]] 
 
-### #is_/same_as :: [Dihok.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.internal|Dihok.internal]] 
 
-### #is_/same_as :: [Dihok.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.protect|Dihok.protect]] 
 
-### #is_/same_as :: [Dihok.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.private|Dihok.private]] 
 
-### #is_/same_as :: [Dihok.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.personal|Dihok.personal]] 
 
-### #is_/same_as :: [Dihok.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dihok.secret|Dihok.secret]] 
 

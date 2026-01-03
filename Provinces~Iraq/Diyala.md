@@ -40,17 +40,17 @@ markerFolder: ./Diyala/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diyala](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala|Diyala]] 
 
-### #is_/same_as :: [Diyala.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.public|Diyala.public]] 
 
-### #is_/same_as :: [Diyala.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.internal|Diyala.internal]] 
 
-### #is_/same_as :: [Diyala.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.protect|Diyala.protect]] 
 
-### #is_/same_as :: [Diyala.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.private|Diyala.private]] 
 
-### #is_/same_as :: [Diyala.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.personal|Diyala.personal]] 
 
-### #is_/same_as :: [Diyala.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Diyala.secret|Diyala.secret]] 
 

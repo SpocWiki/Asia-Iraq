@@ -40,17 +40,17 @@ markerFolder: ./As-Sulaymaniyah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [As-Sulaymaniyah](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah|As-Sulaymaniyah]] 
 
-### #is_/same_as :: [As-Sulaymaniyah.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.public|As-Sulaymaniyah.public]] 
 
-### #is_/same_as :: [As-Sulaymaniyah.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.internal|As-Sulaymaniyah.internal]] 
 
-### #is_/same_as :: [As-Sulaymaniyah.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.protect|As-Sulaymaniyah.protect]] 
 
-### #is_/same_as :: [As-Sulaymaniyah.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.private|As-Sulaymaniyah.private]] 
 
-### #is_/same_as :: [As-Sulaymaniyah.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.personal|As-Sulaymaniyah.personal]] 
 
-### #is_/same_as :: [As-Sulaymaniyah.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/As-Sulaymaniyah.secret|As-Sulaymaniyah.secret]] 
 

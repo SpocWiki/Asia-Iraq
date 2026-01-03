@@ -40,17 +40,17 @@ markerFolder: ./Al-Qadisiyah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al-Qadisiyah](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah|Al-Qadisiyah]] 
 
-### #is_/same_as :: [Al-Qadisiyah.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.public|Al-Qadisiyah.public]] 
 
-### #is_/same_as :: [Al-Qadisiyah.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.internal|Al-Qadisiyah.internal]] 
 
-### #is_/same_as :: [Al-Qadisiyah.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.protect|Al-Qadisiyah.protect]] 
 
-### #is_/same_as :: [Al-Qadisiyah.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.private|Al-Qadisiyah.private]] 
 
-### #is_/same_as :: [Al-Qadisiyah.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.personal|Al-Qadisiyah.personal]] 
 
-### #is_/same_as :: [Al-Qadisiyah.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Qadisiyah.secret|Al-Qadisiyah.secret]] 
 

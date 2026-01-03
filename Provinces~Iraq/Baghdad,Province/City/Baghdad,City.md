@@ -156,19 +156,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Baghdad)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baghdad,City](Baghdad,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province/City/Baghdad,City|Baghdad,City]] 
 
-### #is_/same_as :: [Baghdad.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad/City/Baghdad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province/City/Baghdad,City.public|Baghdad,City.public]] 
 
-### #is_/same_as :: [Baghdad.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad/City/Baghdad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province/City/Baghdad,City.internal|Baghdad,City.internal]] 
 
-### #is_/same_as :: [Baghdad.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad/City/Baghdad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province/City/Baghdad,City.protect|Baghdad,City.protect]] 
 
-### #is_/same_as :: [Baghdad.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad/City/Baghdad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province/City/Baghdad,City.private|Baghdad,City.private]] 
 
-### #is_/same_as :: [Baghdad.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad/City/Baghdad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province/City/Baghdad,City.personal|Baghdad,City.personal]] 
 
-### #is_/same_as :: [Baghdad.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad/City/Baghdad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province/City/Baghdad,City.secret|Baghdad,City.secret]] 
 

@@ -105,3 +105,20 @@ markerFolder: ./Mosul/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mosul) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul|Mosul]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul.public|Mosul.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul.internal|Mosul.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul.protect|Mosul.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul.private|Mosul.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul.personal|Mosul.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul.secret|Mosul.secret]] 
+

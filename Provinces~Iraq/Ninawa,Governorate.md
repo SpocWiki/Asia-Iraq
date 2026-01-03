@@ -58,19 +58,20 @@ markerFolder: ./Ninawa/
 > [Wikipedia](https://en.wikipedia.org/wiki/Nineveh%20Governorate) 
 > 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ninawa](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate|Ninawa,Governorate]] 
 
-### #is_/same_as :: [Ninawa.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate.public|Ninawa,Governorate.public]] 
 
-### #is_/same_as :: [Ninawa.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate.internal|Ninawa,Governorate.internal]] 
 
-### #is_/same_as :: [Ninawa.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate.protect|Ninawa,Governorate.protect]] 
 
-### #is_/same_as :: [Ninawa.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate.private|Ninawa,Governorate.private]] 
 
-### #is_/same_as :: [Ninawa.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate.personal|Ninawa,Governorate.personal]] 
 
-### #is_/same_as :: [Ninawa.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate.secret|Ninawa,Governorate.secret]] 
 

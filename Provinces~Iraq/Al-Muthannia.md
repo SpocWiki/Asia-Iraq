@@ -40,17 +40,17 @@ markerFolder: ./Al-Muthannia/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Al-Muthannia](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia|Al-Muthannia]] 
 
-### #is_/same_as :: [Al-Muthannia.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.public|Al-Muthannia.public]] 
 
-### #is_/same_as :: [Al-Muthannia.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.internal|Al-Muthannia.internal]] 
 
-### #is_/same_as :: [Al-Muthannia.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.protect|Al-Muthannia.protect]] 
 
-### #is_/same_as :: [Al-Muthannia.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.private|Al-Muthannia.private]] 
 
-### #is_/same_as :: [Al-Muthannia.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.personal|Al-Muthannia.personal]] 
 
-### #is_/same_as :: [Al-Muthannia.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Al-Muthannia.secret|Al-Muthannia.secret]] 
 

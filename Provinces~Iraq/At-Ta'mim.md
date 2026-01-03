@@ -40,17 +40,17 @@ markerFolder: ./At-Ta'mim/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [At-Ta'mim](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim|At-Ta'mim]] 
 
-### #is_/same_as :: [At-Ta'mim.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.public|At-Ta'mim.public]] 
 
-### #is_/same_as :: [At-Ta'mim.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.internal|At-Ta'mim.internal]] 
 
-### #is_/same_as :: [At-Ta'mim.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.protect|At-Ta'mim.protect]] 
 
-### #is_/same_as :: [At-Ta'mim.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.private|At-Ta'mim.private]] 
 
-### #is_/same_as :: [At-Ta'mim.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.personal|At-Ta'mim.personal]] 
 
-### #is_/same_as :: [At-Ta'mim.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/At-Ta'mim.secret|At-Ta'mim.secret]] 
 

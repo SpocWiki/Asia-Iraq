@@ -213,3 +213,20 @@ Wolfram_Language_entity_code: Entity["Concept", "Saddam::84pgp"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saddam%20Hussein) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Hussein,Saddam|Hussein,Saddam]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Hussein,Saddam.public|Hussein,Saddam.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Hussein,Saddam.internal|Hussein,Saddam.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Hussein,Saddam.protect|Hussein,Saddam.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Hussein,Saddam.private|Hussein,Saddam.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Hussein,Saddam.personal|Hussein,Saddam.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Hussein,Saddam.secret|Hussein,Saddam.secret]] 
+

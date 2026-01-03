@@ -63,3 +63,20 @@ Commons_category: Nineveh
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nineveh) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul/Nineveh|Nineveh]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul/Nineveh.public|Nineveh.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul/Nineveh.internal|Nineveh.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul/Nineveh.protect|Nineveh.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul/Nineveh.private|Nineveh.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul/Nineveh.personal|Nineveh.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Ninawa,Governorate/counties~Ninawa/Mosul/Nineveh.secret|Nineveh.secret]] 
+

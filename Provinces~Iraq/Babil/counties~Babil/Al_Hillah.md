@@ -36,3 +36,19 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hillah) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah|Al_Hillah]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah.public|Al_Hillah.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah.internal|Al_Hillah.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah.protect|Al_Hillah.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah.private|Al_Hillah.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah.personal|Al_Hillah.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/counties~Babil/Al_Hillah.secret|Al_Hillah.secret]] 
+

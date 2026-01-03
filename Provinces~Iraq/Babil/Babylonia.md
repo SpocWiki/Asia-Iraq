@@ -64,3 +64,20 @@ inception: -1900-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Babylonia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/Babylonia|Babylonia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/Babylonia.public|Babylonia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/Babylonia.internal|Babylonia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/Babylonia.protect|Babylonia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/Babylonia.private|Babylonia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/Babylonia.personal|Babylonia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil/Babylonia.secret|Babylonia.secret]] 
+

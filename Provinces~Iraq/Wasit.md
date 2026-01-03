@@ -40,17 +40,17 @@ markerFolder: ./Wasit/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wasit](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit|Wasit]] 
 
-### #is_/same_as :: [Wasit.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.public|Wasit.public]] 
 
-### #is_/same_as :: [Wasit.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.internal|Wasit.internal]] 
 
-### #is_/same_as :: [Wasit.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.protect|Wasit.protect]] 
 
-### #is_/same_as :: [Wasit.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.private|Wasit.private]] 
 
-### #is_/same_as :: [Wasit.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.personal|Wasit.personal]] 
 
-### #is_/same_as :: [Wasit.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Wasit.secret|Wasit.secret]] 
 

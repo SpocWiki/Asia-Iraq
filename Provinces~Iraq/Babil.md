@@ -52,19 +52,20 @@ markerFolder: ./Babil/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Babylon%20Governorate)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Babil](/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil|Babil]] 
 
-### #is_/same_as :: [Babil.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.public|Babil.public]] 
 
-### #is_/same_as :: [Babil.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.internal|Babil.internal]] 
 
-### #is_/same_as :: [Babil.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.protect|Babil.protect]] 
 
-### #is_/same_as :: [Babil.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.private|Babil.private]] 
 
-### #is_/same_as :: [Babil.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.personal|Babil.personal]] 
 
-### #is_/same_as :: [Babil.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Babil.secret|Babil.secret]] 
 

@@ -65,3 +65,20 @@ inception: -3799-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ur) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar/Ur|Ur]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar/Ur.public|Ur.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar/Ur.internal|Ur.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar/Ur.protect|Ur.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar/Ur.private|Ur.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar/Ur.personal|Ur.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Dhi-Qar/Ur.secret|Ur.secret]] 
+

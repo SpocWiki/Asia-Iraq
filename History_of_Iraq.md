@@ -29,3 +29,20 @@ Dewey_Decimal_Classification: "956.7"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Iraq) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/History_of_Iraq|History_of_Iraq]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/History_of_Iraq.public|History_of_Iraq.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/History_of_Iraq.internal|History_of_Iraq.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/History_of_Iraq.protect|History_of_Iraq.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/History_of_Iraq.private|History_of_Iraq.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/History_of_Iraq.personal|History_of_Iraq.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/History_of_Iraq.secret|History_of_Iraq.secret]] 
+

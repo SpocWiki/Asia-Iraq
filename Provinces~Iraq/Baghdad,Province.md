@@ -85,21 +85,19 @@ markerFolder: ./Baghdad/
 > [Wikipedia](https://en.wikipedia.org/wiki/Baghdad%20Governorate) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baghdad,Province](Baghdad,Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province|Baghdad,Province]] 
 
-### #is_/same_as :: [Baghdad.public](/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province.public|Baghdad,Province.public]] 
 
-### #is_/same_as :: [Baghdad.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province.internal|Baghdad,Province.internal]] 
 
-### #is_/same_as :: [Baghdad.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province.protect|Baghdad,Province.protect]] 
 
-### #is_/same_as :: [Baghdad.private](/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province.private|Baghdad,Province.private]] 
 
-### #is_/same_as :: [Baghdad.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province.personal|Baghdad,Province.personal]] 
 
-### #is_/same_as :: [Baghdad.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Iraq/Provinces~Iraq/Baghdad,Province.secret|Baghdad,Province.secret]] 
 
