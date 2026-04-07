@@ -1,35 +1,35 @@
 ---
 has_id_wikidata: Q47690
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Church_Encyclopedia,9253865]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
-has_part_s_: "[[_Standards/WikiData/WD~Old_Babylonian_Empire,733897]]"
-official_religion: "[[_Standards/WikiData/WD~Babylonian_religion,797944]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Church_Encyclopedia,9253865|WD~Church_Encyclopedia,9253865]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240|WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]"
+has_part_s_: "[[_Standards/WikiData/WD~Old_Babylonian_Empire,733897|WD~Old_Babylonian_Empire,733897]]"
+official_religion: "[[_Standards/WikiData/WD~Babylonian_religion,797944|WD~Babylonian_religion,797944]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~style,1292119]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
+  - "[[_Standards/WikiData/WD~style,1292119|WD~style,1292119]]"
+  - "[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~ancient_civilization,28171280]]"
+  - "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
+  - "[[_Standards/WikiData/WD~ancient_civilization,28171280|WD~ancient_civilization,28171280]]"
 native_label: 𒆳𒆍𒀭𒊏𒆠
 country:
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-capital: "[[_Standards/WikiData/WD~Babylon,5684]]"
+  - "[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+capital: "[[_Standards/WikiData/WD~Babylon,5684|WD~Babylon,5684]]"
 language_used:
-  - "[[_Standards/WikiData/WD~Aramaic,28602]]"
-  - "[[_Standards/WikiData/WD~Akkadian,35518]]"
-  - "[[_Standards/WikiData/WD~Sumerian,36790]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - "[[_Standards/WikiData/WD~Aramaic,28602|WD~Aramaic,28602]]"
+  - "[[_Standards/WikiData/WD~Akkadian,35518|WD~Akkadian,35518]]"
+  - "[[_Standards/WikiData/WD~Sumerian,36790|WD~Sumerian,36790]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 Commons_category: Babylonia
 demonym: Babylonian
 image:

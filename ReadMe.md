@@ -118,7 +118,7 @@ markerFolder: ./
 [Area-Land::437370] 
 Continent :: [[Asia]]  
 [VehicleCode::IRQ] 
-Capital :: [[Iraq/Counties/Baghdad/City/Baghdad]]  
+Capital :: [[Iraq/Counties/Baghdad/City/Baghdad|Baghdad]]  
 ![[Iraq/Coat_of_arms_of_Iraq.svg|350]] 
 ![[Anthem-Iraq.mp3]] 
 ![[Iraq/Flag_of_Iraq.svg|350]] 

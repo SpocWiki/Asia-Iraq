@@ -3,11 +3,11 @@ aliases:
   - history of Mesopotamia
   - history of Iraq
 has_id_wikidata: Q695980
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-facet_of: "[[_Standards/WikiData/WD~Iraq,796]]"
-country: "[[_Standards/WikiData/WD~Iraq,796]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_the_Middle_East,51615]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+facet_of: "[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+country: "[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_the_Middle_East,51615|WD~history_of_the_Middle_East,51615]]"
 Commons_category: History of Iraq
 Dewey_Decimal_Classification: "956.7"
 ---

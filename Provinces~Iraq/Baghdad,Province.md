@@ -36,16 +36,16 @@ demonym:
   - багдадцы
 inception: 0762-01-01T00:00:00Z
 capital_of:
-  - "[[/_Standards/WikiData/WD~Iraq,796]]"
-country: "[[/_Standards/WikiData/WD~Iraq,796]]"
+  - "[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+country: "[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
 located_in_time_zone:
-  - "[[/_Standards/WikiData/WD~UTC+03_00,6760]]"
+  - "[[/_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
 founded_by:
-  - "[[/_Standards/WikiData/WD~Al-Mansur,31066]]"
-continent: "[[/_Standards/WikiData/WD~Asia,48]]"
+  - "[[/_Standards/WikiData/WD~Al-Mansur,31066|WD~Al-Mansur,31066]]"
+continent: "[[/_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 elevation_above_sea_level: 34
 located_in_or_next_to_body_of_water:
-  - "[[/_Standards/WikiData/WD~Tigris,35591]]"
+  - "[[/_Standards/WikiData/WD~Tigris,35591|WD~Tigris,35591]]"
 area: 673
 OmegaWiki_Defined_Meaning: 160279
 official_name:
