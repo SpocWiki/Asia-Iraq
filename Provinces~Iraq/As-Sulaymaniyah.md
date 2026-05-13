@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./As-Sulaymaniyah/
 markerFolder: ./As-Sulaymaniyah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

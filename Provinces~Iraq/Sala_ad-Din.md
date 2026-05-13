@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sala_ad-Din/
 markerFolder: ./Sala_ad-Din/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

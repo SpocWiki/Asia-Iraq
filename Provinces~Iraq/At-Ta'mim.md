@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./At-Ta'mim/
 markerFolder: ./At-Ta'mim/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
