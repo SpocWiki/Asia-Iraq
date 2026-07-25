@@ -341,7 +341,7 @@ dv_UNTERM_Chinese_Formal: 伊拉克共和国
 dv_UNTERM_French_Formal: la République d'Iraq
 dv_UNTERM_Russian: Ирак
 dv_UNTERM_Russian_Formal: Республика Ирак
-dv_Region_Name: '[[../../Asia|Asia]]'
+dv_Region_Name: '[[../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Iraq]]'
 dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
@@ -366,7 +366,7 @@ dv_ISO2: IQ
 dv_ISO3: IRQ
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Iraq,796|WD~Iraq,796]]'
+  - '[[../../../../../WikiData/WD~Iraq,796|WD~Iraq,796]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~West/Iraq|Iraq]]'
   - '[[/_public/Earth/Continent/Asia/Asia~West/Iraq.public|Iraq.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~West/Iraq.internal|Iraq.internal]]'
@@ -377,18 +377,18 @@ dv_is_:
 dv_has_name_de: Irak
 dv_Area-Total: 438317
 dv_Area-Land: 437370
-dv_has_place_continent: '[[../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../Asia|Asia]]'
 dv_VehicleCode: IRQ
-dv_Capital: '[[Iraq/Counties/Baghdad/City/Baghdad|Baghdad]]'
+dv_Capital: '[[Counties/Baghdad/City/Baghdad|Baghdad]]'
 dv_Alcohol-l: 0.4
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 44.42
 dv_has_place_latitude: 33.34
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Iraq
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Iraq,796|WD~Iraq,796]]'
+- '[[../../../../../WikiData/WD~Iraq,796|WD~Iraq,796]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~West/Iraq|Iraq]]'
 - '[[/_public/Earth/Continent/Asia/Asia~West/Iraq.public|Iraq.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~West/Iraq.internal|Iraq.internal]]'
@@ -954,7 +954,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Iraq/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -974,7 +974,7 @@ defaultZoom: 5
 
 ```leaflet
 id: Iraq_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1000,9 +1000,9 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
-![[Iraq/Coat_of_arms_of_Iraq.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Iraq.mp3|Anthem-Iraq.mp3]]
-![[Iraq/Flag_of_Iraq.svg|350]]
+![[Coat_of_arms_of_Iraq.svg|350]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Iraq.mp3|Anthem-Iraq.mp3]]
+![[Flag_of_Iraq.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
