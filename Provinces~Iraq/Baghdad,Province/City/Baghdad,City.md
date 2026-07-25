@@ -64,19 +64,19 @@ nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/13-08-06-bagd
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Baghdad.svg
 topic_s_main_Wikimedia_portal: "[[/_Standards/WikiData/WD~Q42351301,42351301|WD~Q42351301,42351301]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Baghdad%20map.svg
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q64577468,64577468|WD~Q64577468,64577468]]"
+category_for_people_buried_here: "[[/_Standards/WikiData/WD~Q64577468,64577468|WD~Q64577468,64577468]]"
 head_of_government: "[[/_Standards/WikiData/WD~Manhal_Al_habbobi,99522079|WD~Manhal_Al_habbobi,99522079]]"
 inception: 0762-01-01T00:00:00Z
-capital_of: "[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
-country: "[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
+capital_of: "[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+country: "[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+located_in_time_zone: "[[/_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
 official_language:
-  - "[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~Kurdish,36368|WD~Kurdish,36368]]"
-founded_by: "[[_Standards/WikiData/WD~Al_Mansur,31066|WD~Al_Mansur,31066]]"
-continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+  - "[[/_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]"
+  - "[[/_Standards/WikiData/WD~Kurdish,36368|WD~Kurdish,36368]]"
+founded_by: "[[/_Standards/WikiData/WD~Al_Mansur,31066|WD~Al_Mansur,31066]]"
+continent: "[[/_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 elevation_above_sea_level: 34
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Tigris,35591|WD~Tigris,35591]]"
+located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Tigris,35591|WD~Tigris,35591]]"
 local_dialing_code: "1"
 area: 673
 OmegaWiki_Defined_Meaning: "160279"

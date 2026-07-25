@@ -4,26 +4,26 @@ has_id_wikidata: Q83317
 location: [ 36.366666666, 43.116666666]
 coordinate_location: Point(43.116666666 36.366666666)
 capital_of:
-  - "[[_Standards/WikiData/WD~Nineveh_Governorate,189352|WD~Nineveh_Governorate,189352]]"
-  - "[[_Standards/WikiData/WD~Zengid_dynasty,189545|WD~Zengid_dynasty,189545]]"
-  - "[[_Standards/WikiData/WD~Mosul_Vilayet,1969497|WD~Mosul_Vilayet,1969497]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Nineveh_Governorate,189352|WD~Nineveh_Governorate,189352]]"
+  - "[[/_Standards/WikiData/WD~Nineveh_Governorate,189352|WD~Nineveh_Governorate,189352]]"
+  - "[[/_Standards/WikiData/WD~Zengid_dynasty,189545|WD~Zengid_dynasty,189545]]"
+  - "[[/_Standards/WikiData/WD~Mosul_Vilayet,1969497|WD~Mosul_Vilayet,1969497]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Nineveh_Governorate,189352|WD~Nineveh_Governorate,189352]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[/_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
-head_of_government: "[[_Standards/WikiData/WD~list_of_Emirs_of_Mosul,2346998|WD~list_of_Emirs_of_Mosul,2346998]]"
-history_of_topic: "[[_Standards/WikiData/WD~Q12201909,12201909|WD~Q12201909,12201909]]"
-country: "[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
-twinned_administrative_body: "[[_Standards/WikiData/WD~Philadelphia,1345|WD~Philadelphia,1345]]"
-replaces: "[[_Standards/WikiData/WD~Nineveh,5680|WD~Nineveh,5680]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
+  - "[[/_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[/_Standards/WikiData/WD~city,515|WD~city,515]]"
+head_of_government: "[[/_Standards/WikiData/WD~list_of_Emirs_of_Mosul,2346998|WD~list_of_Emirs_of_Mosul,2346998]]"
+history_of_topic: "[[/_Standards/WikiData/WD~Q12201909,12201909|WD~Q12201909,12201909]]"
+country: "[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+twinned_administrative_body: "[[/_Standards/WikiData/WD~Philadelphia,1345|WD~Philadelphia,1345]]"
+replaces: "[[/_Standards/WikiData/WD~Nineveh,5680|WD~Nineveh,5680]]"
+located_in_time_zone: "[[/_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]"
 area: 180
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Tigris,35591|WD~Tigris,35591]]"
+located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Tigris,35591|WD~Tigris,35591]]"
 elevation_above_sea_level: 223
 local_dialing_code:
   - "40"

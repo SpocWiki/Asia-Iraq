@@ -4,26 +4,26 @@ has_id_wikidata: Q5699
 coordinate_location: Point(46.104444 30.962222)
 location: [30.962222, 46.104444]
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Ziggurat_of_Ur,202927|WD~Ziggurat_of_Ur,202927]]"
-  - "[[_Standards/WikiData/WD~Royal_Cemetery_at_Ur,1796355|WD~Royal_Cemetery_at_Ur,1796355]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Dhi_Qar_Governorate,215649|WD~Dhi_Qar_Governorate,215649]]"
-domain_of_saint_or_deity: "[[_Standards/WikiData/WD~Sin,217420|WD~Sin,217420]]"
-time_period: "[[_Standards/WikiData/WD~ancient_Near_East,269678|WD~ancient_Near_East,269678]]"
+  - "[[/_Standards/WikiData/WD~Ziggurat_of_Ur,202927|WD~Ziggurat_of_Ur,202927]]"
+  - "[[/_Standards/WikiData/WD~Royal_Cemetery_at_Ur,1796355|WD~Royal_Cemetery_at_Ur,1796355]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~Dhi_Qar_Governorate,215649|WD~Dhi_Qar_Governorate,215649]]"
+domain_of_saint_or_deity: "[[/_Standards/WikiData/WD~Sin,217420|WD~Sin,217420]]"
+time_period: "[[/_Standards/WikiData/WD~ancient_Near_East,269678|WD~ancient_Near_East,269678]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~ancient_city,15661340|WD~ancient_city,15661340]]"
+  - "[[/_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]"
+  - "[[/_Standards/WikiData/WD~ancient_city,15661340|WD~ancient_city,15661340]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Ur_Kaśdim,5373099|WD~Ur_Kaśdim,5373099]]"
-different_from: "[[_Standards/WikiData/WD~UR,5473845|WD~UR,5473845]]"
-culture: "[[_Standards/WikiData/WD~Kassite_dynasty,16630263|WD~Kassite_dynasty,16630263]]"
-part_of: "[[_Standards/WikiData/WD~Ahwar_of_Southern_Iraq,25933006|WD~Ahwar_of_Southern_Iraq,25933006]]"
-heritage_designation: "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
-country: "[[_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
-present_in_work: "[[_Standards/WikiData/WD~Civilization_V,2385|WD~Civilization_V,2385]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[/_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+said_to_be_the_same_as: "[[/_Standards/WikiData/WD~Ur_Kaśdim,5373099|WD~Ur_Kaśdim,5373099]]"
+different_from: "[[/_Standards/WikiData/WD~UR,5473845|WD~UR,5473845]]"
+culture: "[[/_Standards/WikiData/WD~Kassite_dynasty,16630263|WD~Kassite_dynasty,16630263]]"
+part_of: "[[/_Standards/WikiData/WD~Ahwar_of_Southern_Iraq,25933006|WD~Ahwar_of_Southern_Iraq,25933006]]"
+heritage_designation: "[[/_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+country: "[[/_Standards/WikiData/WD~Iraq,796|WD~Iraq,796]]"
+present_in_work: "[[/_Standards/WikiData/WD~Civilization_V,2385|WD~Civilization_V,2385]]"
 area:
   - 71
   - 317
